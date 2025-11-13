@@ -2,7 +2,7 @@ class EchoMemory:
     def __init__(self):
         self.memory = []
 
-    def store(self, phrase):
+    def append(self, phrase):
         self.memory.append(phrase)
 
     def recall(self):
