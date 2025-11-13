@@ -1,4 +1,4 @@
-    name: CradleSync Tests
+name: CradleSync Tests
 
 on:
   push:
