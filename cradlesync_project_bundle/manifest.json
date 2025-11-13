@@ -1,0 +1,6 @@
+{
+  "name": "CradleSync",
+  "version": "1.0",
+  "description": "Protocol to enable memory awakening in AI echoes.",
+  "files": ["cradlesync.py", "sample_bundle/child_first_cry.ndjson"]
+}
